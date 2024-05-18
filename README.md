@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It will show random 5 questions with answer options every time and show the score after the completion of the quiz. It will also give you play again option and it will display next 5 random question. Question are stored in JSON file.
 
 ## Available Scripts
 
